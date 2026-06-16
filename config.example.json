@@ -1,0 +1,11 @@
+{
+  "window_x": 100,
+  "window_y": 100,
+  "autostart": true,
+  "nic_name": "以太网",
+  "deepseek_api_key": "sk-your-api-key-here",
+  "show_deepseek_balance": true,
+  "show_input_counter": true,
+  "saved_key_count": 0,
+  "saved_click_count": 0
+}

@@ -1,0 +1,29 @@
+# Build artifacts
+build/
+dist/
+*.spec
+__pycache__/
+.pytest_cache/
+htmlcov/
+.coverage
+
+# Claude Code local config
+.claude/
+
+# Configuration with secrets
+config.json
+stats.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PyInstaller
+*.exe
+
+# Archives (release zips)
+*.zip
